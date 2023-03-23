@@ -36,7 +36,7 @@ public class A1113324_0317_1 {
 
     for (int[] row : arr) {
       for (int element : row) {
-        System.out.print(element + " ");
+        System.out.print(element + "\t");
       }
       System.out.println();
     }
